@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 Edge Telemetry. Proprietary and confidential. Bundled third-party notices: THIRD_PARTY_LICENSES. */
 import { onCLS, onFCP, onINP, onLCP, onTTFB } from 'web-vitals';
 import type { Metric } from 'web-vitals';
 

@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 Edge Telemetry. Proprietary and confidential. Bundled third-party notices: THIRD_PARTY_LICENSES. */
 export type DevicePlatform = 'ios' | 'android' | 'web';
 
 export type DeviceContextAttributes = Record<string, string | number | boolean>;

@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 Edge Telemetry. Proprietary and confidential. Bundled third-party notices: THIRD_PARTY_LICENSES. */
 export const OFFLINE_QUEUE_KEY = 'edge_rum_q';
 export const DEFAULT_MAX_QUEUE_SIZE = 200;
 

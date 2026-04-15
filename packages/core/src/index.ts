@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 Edge Telemetry. Proprietary and confidential. Bundled third-party notices: THIRD_PARTY_LICENSES. */
 export const SDK_VERSION = '0.0.1';
 export const SDK_PLATFORM = 'ionic-angular-capacitor' as const;
 

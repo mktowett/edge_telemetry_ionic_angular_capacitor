@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 Edge Telemetry. Proprietary and confidential. Bundled third-party notices: THIRD_PARTY_LICENSES. */
 import {
   APP_INITIALIZER,
   ErrorHandler,

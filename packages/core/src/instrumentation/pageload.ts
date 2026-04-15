@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 Edge Telemetry. Proprietary and confidential. Bundled third-party notices: THIRD_PARTY_LICENSES. */
 export type PageLoadEventAttributes = {
   'page.ttfb_ms': number;
   'page.dom_content_loaded_ms': number;

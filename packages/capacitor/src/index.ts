@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 Edge Telemetry. Proprietary and confidential. Bundled third-party notices: THIRD_PARTY_LICENSES. */
 export { SDK_PLATFORM, SDK_VERSION } from '@edgemetrics/rum';
 export type { EdgeRumConfig, EventAttributes, UserContext } from '@edgemetrics/rum';
 
